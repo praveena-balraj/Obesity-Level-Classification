@@ -133,6 +133,14 @@ University of the West of Scotland
    pip install -r requirements.txt
 3. Run the notebook:
     Open `obesity_classification_pipeline.ipynb` in Jupyter Notebook or Google Colab.
+
+##  Dataset Setup
+
+The dataset is not included in this repository.
+
+Please download the UCI Obesity Dataset from:
+https://archive.ics.uci.edu/dataset/544/estimation+of+obesity+levels+based+on+eating+habits+and+physical+condition
+Place the CSV file inside the project root directory before running the notebook.
    
 
 
