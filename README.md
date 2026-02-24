@@ -119,12 +119,6 @@ Random Forest	         ~92%
 
 - Reproducible ML workflow
 
-## Author
-
-Praveena Kollasseril Balraj
-MSc Advanced Computing (Big Data)
-University of the West of Scotland
-
 ## How to Run This Project
 
 1. Clone the repository:
@@ -133,6 +127,17 @@ University of the West of Scotland
    pip install -r requirements.txt
 3. Run the notebook:
     Open `obesity_classification_pipeline.ipynb` in Jupyter Notebook or Google Colab.
+
+## Author
+
+Praveena Kollasseril Balraj
+
+
+MSc Advanced Computing (Big Data)
+
+
+University of the West of Scotland
+
 
 
 
