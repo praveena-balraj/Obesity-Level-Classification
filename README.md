@@ -125,5 +125,14 @@ Praveena Kollasseril Balraj
 MSc Advanced Computing (Big Data)
 University of the West of Scotland
 
+## How to Run This Project
+
+1. Clone the repository:
+   git clone https://github.com/praveena-balraj/Obesity-Level-Classification.git
+2. Install dependencies:
+   pip install -r requirements.txt
+3. Run the notebook:
+    Open `obesity_classification_pipeline.ipynb` in Jupyter Notebook or Google Colab.
+   
 
 
